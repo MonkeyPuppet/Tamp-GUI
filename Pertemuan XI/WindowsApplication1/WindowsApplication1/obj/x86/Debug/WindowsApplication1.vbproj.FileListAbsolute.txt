@@ -1,0 +1,9 @@
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmUtama.resources
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Pertemuan XI\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
